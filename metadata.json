@@ -1,0 +1,6 @@
+{
+  "name": "JFC Tour & Travel Bintan",
+  "description": "Website resmi JFC Tour & Travel Bintan - Paket Wisata Lagoi, Tanjung Pinang, Tanjung Uban, Rental Mobil Harian/Mingguan/Bulanan & Booking WhatsApp Terintegrasi Google Bisnis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
